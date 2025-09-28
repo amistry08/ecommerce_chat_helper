@@ -1,2 +1,0 @@
-MongoDB_usename = ayushmistry1998_db_user
-MongoDB_password = 2hQcN34If4QhgsIV
