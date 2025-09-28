@@ -51,7 +51,7 @@ export async function callAgent(
 ) {
     try {
         // Database configuration
-        const dbName = "inventory_database" // Name of the MongoDB database
+        const dbName = "invertory_database" // Name of the MongoDB database
         const db = client.db(dbName) // Get database instance
         const collection = db.collection("items") // Get the 'items' collection
 
